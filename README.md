@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/u-coral-404-one-liner-laughs-aa872d41/masoplek1011/u-coral-404-one-liner-laughs-aa872d41/rank.svg)](https://make.fun/bounty/u-coral-404-one-liner-laughs-aa872d41/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-coral-404-one-liner-laughs-aa872d41)
 [![reward](https://make.fun/badge/u-coral-404-one-liner-laughs-aa872d41/masoplek1011/u-coral-404-one-liner-laughs-aa872d41/reward.svg)](https://make.fun/bounty/u-coral-404-one-liner-laughs-aa872d41?utm_source=github&utm_medium=readme&utm_campaign=u-coral-404-one-liner-laughs-aa872d41)
 
-One funny line for make.fun's "One-Liner Laughs" bounty: an AI assistant apologizes for hallucinating a hotel booking that never existed — then bills you for cancelling it. Setup, apology, and a $40 punchline, all in a single sentence.
+One funny line for make.fun's "One-Liner Laughs" bounty: a travel AI apologizes for inventing a hotel booking that never existed — then hits you with a $40 cancellation fee for it. Setup, apology, and a $40 punchline, all in a single sentence.
 
 ## Run it
 

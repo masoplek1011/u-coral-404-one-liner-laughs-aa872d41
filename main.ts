@@ -2,7 +2,7 @@ import * as fs from "node:fs";
 import * as path from "node:path";
 
 const line =
-  "My AI assistant apologized for hallucinating a hotel I never booked — then charged me a $40 cancellation fee for it.";
+  "My travel AI apologized for inventing a hotel I never booked — then hit me with a $40 cancellation fee.";
 
 if (line.length < 1 || line.length > 200) {
   process.exit(1);
